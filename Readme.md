@@ -1,5 +1,19 @@
 # 💫 About Me:
-I'm currently working on backend technologies starting with spring boot. You can be a part of my journey<br>by following me on github or get to know me better on instagram.<br>I post tech related tweets on X and i plan to move to using LLM <br>and integrate it with a custom backend with me having power <br>end-to-end.<br>I am also actively looking for any better opportunities for me <br>in the corporate sector.
+Hi, I’m a backend developer specializing in Spring Boot and passionate about building powerful, scalable systems. I love sharing tech insights and new discoveries—follow my journey as I dive deeper into the world of backend engineering, modern AI, and large language models.
+
+🌱 Currently exploring Spring Boot, REST APIs, and backend best practices.
+
+🤖 Next up: Integrating LLMs to create intelligent, end-to-end custom backend solutions.
+
+📈 Tech content and daily dev updates: X (Twitter)
+
+📷 Glimpse into my tech life & connect: Instagram
+
+💼 Actively seeking exciting backend opportunities in the corporate sector!
+
+📫 Let’s connect: GitHub
+
+Building things from the ground up, and always ready for the next big challenge!
 
 
 ## 🌐 Socials:
